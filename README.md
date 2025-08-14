@@ -22,13 +22,13 @@ A modern Flutter-based notes application with **text note creation**, **photo/vi
 
 ![Home Screen](https://github.com/AhmetFarukTUNC/notepad/blob/main/images/homepage.jpg)
 
-![Home Screen](https://github.com/AhmetFarukTUNC/notepad/blob/main/images/kaydol.jpg)
+![Home Screen](https://github.com/AhmetFarukTUNC/notepad/blob/main/images/addnote.jpg)
 
-![Home Screen](https://github.com/AhmetFarukTUNC/notepad/blob/main/images/kaydol.jpg)
+![Home Screen](https://github.com/AhmetFarukTUNC/notepad/blob/main/images/addnote2.jpg)
 
-![Home Screen](https://github.com/AhmetFarukTUNC/notepad/blob/main/images/kaydol.jpg)
+![Home Screen](https://github.com/AhmetFarukTUNC/notepad/blob/main/images/addnote3.jpg)
 
-![Home Screen](https://github.com/AhmetFarukTUNC/notepad/blob/main/images/kaydol.jpg)
+![Home Screen](https://github.com/AhmetFarukTUNC/notepad/blob/main/images/lis.jpg)
 
 
 
@@ -36,4 +36,4 @@ A modern Flutter-based notes application with **text note creation**, **photo/vi
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/notes-app.git
+   git clone https://github.com/AhmetFarukTUNC/notepad/
