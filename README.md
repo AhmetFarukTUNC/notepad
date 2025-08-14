@@ -18,9 +18,17 @@ A modern Flutter-based notes application with **text note creation**, **photo/vi
 
 ![Home Screen](https://github.com/AhmetFarukTUNC/notepad/blob/main/images/kaydol.jpg)
 
-![Add Note](images/ss2.png)
+![Home Screen](https://github.com/AhmetFarukTUNC/notepad/blob/main/images/kaydol.jpg)
 
-![Add Photo](images/ss3.png) |
+![Home Screen](https://github.com/AhmetFarukTUNC/notepad/blob/main/images/kaydol.jpg)
+
+![Home Screen](https://github.com/AhmetFarukTUNC/notepad/blob/main/images/kaydol.jpg)
+
+![Home Screen](https://github.com/AhmetFarukTUNC/notepad/blob/main/images/kaydol.jpg)
+
+![Home Screen](https://github.com/AhmetFarukTUNC/notepad/blob/main/images/kaydol.jpg)
+
+![Home Screen](https://github.com/AhmetFarukTUNC/notepad/blob/main/images/kaydol.jpg)
 
 
 
