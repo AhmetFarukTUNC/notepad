@@ -28,7 +28,7 @@ A modern Flutter-based notes application with **text note creation**, **photo/vi
 
 ![Home Screen](https://github.com/AhmetFarukTUNC/notepad/blob/main/images/addnote3.jpg)
 
-![Home Screen](https://github.com/AhmetFarukTUNC/notepad/blob/main/images/lis.jpg)
+![Home Screen](https://github.com/AhmetFarukTUNC/notepad/blob/main/images/list.jpg)
 
 
 
